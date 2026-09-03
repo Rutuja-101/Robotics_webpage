@@ -1,0 +1,95 @@
+Create a simple, modern, responsive website for a **Robotics Club**.
+
+### Goal
+
+The website should feel like a student robotics club website: clean, futuristic, friendly, and easy to navigate. Keep the design simple and avoid unnecessary animations or complicated sections.
+
+### Tech
+
+* Use **HTML, CSS, and JavaScript**
+* Keep the code beginner-friendly and well organized
+* Make it fully responsive for desktop and mobile
+* Do not use a backend or database
+
+### Pages / Sections
+
+**1. Navbar**
+
+* Robotics Club logo/name on the left
+* Navigation links: Home, About, Projects, Events, Team, Contact
+* Simple mobile hamburger menu
+
+**2. Hero Section**
+
+* Large heading: **"Build. Innovate. Automate."**
+* Short description about the Robotics Club
+* Two buttons: **"Explore Projects"** and **"Join Us"**
+* Add a simple robotics-themed visual, such as a robot illustration or circuit pattern
+
+**3. About Us**
+
+* Brief introduction to the club
+* Explain that students learn robotics, electronics, programming, automation, and teamwork
+* Include 3 small highlights:
+
+  * Robotics
+  * Programming
+  * Innovation
+
+**4. Projects**
+Show 3 simple project cards:
+
+* Line Following Robot
+* Obstacle Avoiding Robot
+* Robotic Arm
+
+Each card should have an image/illustration, short description, and "View Project" button.
+
+**5. Events**
+Display 3 upcoming/past events in simple cards:
+
+* Robotics Workshop
+* Robo Race
+* Tech Exhibition
+
+Include date, title, and short description.
+
+**6. Team**
+Show a small grid of 4–6 team members with:
+
+* Placeholder profile image
+* Name
+* Role, such as President, Technical Lead, or Member
+
+**7. Contact / Join Us**
+Add a simple contact section with:
+
+* Email
+* Social media placeholders
+* Simple form with Name, Email, and Message
+* "Join the Club" button
+
+**8. Footer**
+
+* Robotics Club name
+* Quick links
+* Copyright text
+* Social media icons
+
+### Design
+
+* Use a dark navy/black background with white text
+* Use one bright accent color such as cyan or blue
+* Use clean modern typography
+* Rounded cards and buttons
+* Subtle hover effects
+* Minimal animations
+* Use plenty of whitespace
+* Keep the overall design professional but suitable for a college/student club
+
+### Important
+
+Do not make the website overly complex. Prioritize:
+**simplicity + readability + responsiveness + clean UI.**
+
+Use placeholder content and images where necessary so the website can be customized later.
